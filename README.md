@@ -1,11 +1,9 @@
 ### Hi there, I'm [Adrian][adrianostgard] 👋
 
-- 🎓 I have a MSc in Computer Science from University of Tromsø with graduation in 2015
-- 💼 I run a software development company together with [Øystein Langseth][oysteinlangseth] doing consulting/contracting as well as internal projects
+- 🎓 I have a MSc in Computer Science from University of Tromsø where I graduated in 2015
+- 💼 I run a software development company together with [Øystein Langseth][oysteinlangseth] doing consulting/contracting projects as well as internal development projects
 - 🌐 Our company is named [Oeto][oeto]
-- 🌱 I’m thriving when I can combine my deep technological interest with my passion for innovation and product creation! I can’t resist getting involved in most parts of the pipeline - from UI/UX to cloud solution architecture to business related aspects.
-
-<br />
+- 🌱 I’m thriving when I can combine my deep technological interest with my passion for innovation and product creation! I can’t resist getting involved in most parts of the pipeline - from UI/UX to cloud solution architecture to business related aspects
 
 ### Connect with me:
 
